@@ -7,7 +7,7 @@ const chef = require('./data/chef.json');
 
 app.use(cors());
 app.get('/',(req,res)=>{
-    res.send('dragon is running')
+    res.send('chef is running')
 });
 
 app.get('/chef',(req, res)=>{
