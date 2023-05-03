@@ -1,0 +1,279 @@
+[
+    {
+        "id": 1,
+        "name": "Meena Khan",
+        "years_of_experience": 15,
+        "num_recipes": 75,
+        "likes": 200,
+        "picture_url": "https://i.ibb.co/jWmzBQz/meena-khan.jpg",
+        "bio": "Meena Khan is a renowned Bengali chef with over 15 years of experience in cooking traditional Bengali cuisine. Her love for food and passion for cooking inspired her to start her own restaurant, where she serves authentic Bengali dishes with a modern twist. Her recipes are known for their unique blend of spices and flavors that tantalize the taste buds of food lovers.",
+        "recipes": [
+          {
+            "name": "Chingri Macher Malai Curry (Prawn Curry in Coconut Milk)",
+            "ingredients": [
+              "500 gm prawns",
+              "1 cup coconut milk",
+              "1 onion, chopped",
+              "1 tsp garlic paste",
+              "1 tsp ginger paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "2-3 green chilies",
+              "1 tbsp sugar",
+              "2-3 tbsp mustard oil",
+              "1 tsp ghee",
+              "Salt to taste"
+            ],
+            "method": "1. Clean and devein the prawns, leaving the tail intact.\n2. Heat the mustard oil in a pan and fry the prawns for 2-3 minutes. Remove them from the pan and keep them aside.\n3. In the same pan, add the chopped onion, ginger paste, and garlic paste, and sauté until the onion turns translucent.\n4. Add the turmeric powder, red chili powder, and salt, and mix well.\n5. Add the coconut milk and sugar to the pan and bring it to a boil.\n6. Add the fried prawns to the pan and cook for 2-3 minutes.\n7. Add the ghee and green chilies to the pan and stir well.\n8. Serve hot with steamed rice.",
+            "rating": 4.8
+          },
+          {
+            "name": "Shorshe Ilish (Hilsa Fish in Mustard Gravy)",
+            "ingredients": [
+              "4 pieces of Hilsa fish",
+              "2-3 tablespoons mustard paste",
+              "1 teaspoon red chili powder",
+              "1/2 teaspoon turmeric powder",
+              "2-3 green chilies",
+              "1 teaspoon salt",
+              "2-3 tablespoons mustard oil",
+              "1/2 teaspoon sugar"
+            ],
+            "method": "1. Clean the Hilsa fish pieces and marinate them with turmeric powder and salt for 15-20 minutes.\n2. In a grinder, grind the mustard seeds with a little water to make a smooth paste.\n3. Heat the mustard oil in a pan and fry the fish pieces until they are golden brown on both sides.\n4. Remove the fish from the pan and keep it aside.\n5. In the same pan, add the mustard paste, red chili powder, and sugar, and fry for 2-3 minutes.\n6. Add a cup of water to the pan and bring it to a boil.\n7. Add the fried fish to the pan and cook for 5-10 minutes until the fish is fully cooked and the gravy thickens.\n8. Garnish with green chilies and serve hot with steamed rice.",
+            "rating": 4.9
+          },
+       {
+      "name": "Aloo Posto (Potatoes in Poppy Seed Gravy)",
+      "ingredients": [
+      "3-4 potatoes",
+      "1/2 cup poppy seeds",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon red chili powder",
+      "2-3 green chilies",
+      "1 tablespoon mustard oil",
+      "Salt to taste"
+      ],
+      "method": "1. Peel and dice the potatoes into small cubes.\n2. Soak the poppy seeds in water for 10-15 minutes.\n3. Drain the water and grind the poppy seeds to make a smooth paste.\n4. Heat the mustard oil in a pan and add the diced potatoes.\n5. Fry the potatoes until they are golden brown.\n6. Add the turmeric powder, red chili powder, and salt, and mix well.\n7. Add the poppy seed paste to the pan and mix well.\n8. Add water to the pan and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes until the potatoes are fully cooked and the gravy thickens.\n10. Garnish with green chilies and serve hot with steamed rice.",
+      "rating": 4.7
+      }
+      ]
+      },
+    {
+        "id": 2,
+        "name": "Kaiyum",
+        "years_of_experience": 15,
+        "num_recipes": 75,
+        "likes": 200,
+        "picture_url": "https://ibb.co/dPyjfG3",
+        "bio": "Kaiyum is a renowned Bengali chef with over 15 years of experience in cooking traditional Bengali cuisine. Her love for food and passion for cooking inspired her to start her own restaurant, where she serves authentic Bengali dishes with a modern twist. Her recipes are known for their unique blend of spices and flavors that tantalize the taste buds of food lovers.",
+        "recipes": [
+          {
+            "name": "Chingri Macher Malai Curry (Prawn Curry in Coconut Milk)",
+            "ingredients": [
+              "500 gm prawns",
+              "1 cup coconut milk",
+              "1 onion, chopped",
+              "1 tsp garlic paste",
+              "1 tsp ginger paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "2-3 green chilies",
+              "1 tbsp sugar",
+              "2-3 tbsp mustard oil",
+              "1 tsp ghee",
+              "Salt to taste"
+            ],
+            "method": "1. Clean and devein the prawns, leaving the tail intact.\n2. Heat the mustard oil in a pan and fry the prawns for 2-3 minutes. Remove them from the pan and keep them aside.\n3. In the same pan, add the chopped onion, ginger paste, and garlic paste, and sauté until the onion turns translucent.\n4. Add the turmeric powder, red chili powder, and salt, and mix well.\n5. Add the coconut milk and sugar to the pan and bring it to a boil.\n6. Add the fried prawns to the pan and cook for 2-3 minutes.\n7. Add the ghee and green chilies to the pan and stir well.\n8. Serve hot with steamed rice.",
+            "rating": 4.8
+          },
+          {
+            "name": "Shorshe Ilish (Hilsa Fish in Mustard Gravy)",
+            "ingredients": [
+              "4 pieces of Hilsa fish",
+              "2-3 tablespoons mustard paste",
+              "1 teaspoon red chili powder",
+              "1/2 teaspoon turmeric powder",
+              "2-3 green chilies",
+              "1 teaspoon salt",
+              "2-3 tablespoons mustard oil",
+              "1/2 teaspoon sugar"
+            ],
+            "method": "1. Clean the Hilsa fish pieces and marinate them with turmeric powder and salt for 15-20 minutes.\n2. In a grinder, grind the mustard seeds with a little water to make a smooth paste.\n3. Heat the mustard oil in a pan and fry the fish pieces until they are golden brown on both sides.\n4. Remove the fish from the pan and keep it aside.\n5. In the same pan, add the mustard paste, red chili powder, and sugar, and fry for 2-3 minutes.\n6. Add a cup of water to the pan and bring it to a boil.\n7. Add the fried fish to the pan and cook for 5-10 minutes until the fish is fully cooked and the gravy thickens.\n8. Garnish with green chilies and serve hot with steamed rice.",
+            "rating": 4.9
+          },
+       {
+      "name": "Aloo Posto (Potatoes in Poppy Seed Gravy)",
+      "ingredients": [
+      "3-4 potatoes",
+      "1/2 cup poppy seeds",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon red chili powder",
+      "2-3 green chilies",
+      "1 tablespoon mustard oil",
+      "Salt to taste"
+      ],
+      "method": "1. Peel and dice the potatoes into small cubes.\n2. Soak the poppy seeds in water for 10-15 minutes.\n3. Drain the water and grind the poppy seeds to make a smooth paste.\n4. Heat the mustard oil in a pan and add the diced potatoes.\n5. Fry the potatoes until they are golden brown.\n6. Add the turmeric powder, red chili powder, and salt, and mix well.\n7. Add the poppy seed paste to the pan and mix well.\n8. Add water to the pan and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes until the potatoes are fully cooked and the gravy thickens.\n10. Garnish with green chilies and serve hot with steamed rice.",
+      "rating": 4.7
+      }
+      ]
+      },
+    {
+        "id": 3,
+        "name": "abbas Khan",
+        "years_of_experience": 15,
+        "num_recipes": 75,
+        "likes": 200,
+        "picture_url": "https://ibb.co/tQVf0fm",
+        "bio": "abbas Khan is a renowned Bengali chef with over 15 years of experience in cooking traditional Bengali cuisine. Her love for food and passion for cooking inspired her to start her own restaurant, where she serves authentic Bengali dishes with a modern twist. Her recipes are known for their unique blend of spices and flavors that tantalize the taste buds of food lovers.",
+        "recipes": [
+            {
+                "name": "Shorshe Ilish (Hilsa Fish in Mustard Gravy)",
+                "ingredients": [
+                  "4 pieces of Hilsa fish",
+                  "2-3 tablespoons mustard paste",
+                  "1 teaspoon red chili powder",
+                  "1/2 teaspoon turmeric powder",
+                  "2-3 green chilies",
+                  "1 teaspoon salt",
+                  "2-3 tablespoons mustard oil",
+                  "1/2 teaspoon sugar"
+                ],
+                "method": "1. Clean the Hilsa fish pieces and marinate them with turmeric powder and salt for 15-20 minutes.\n2. In a grinder, grind the mustard seeds with a little water to make a smooth paste.\n3. Heat the mustard oil in a pan and fry the fish pieces until they are golden brown on both sides.\n4. Remove the fish from the pan and keep it aside.\n5. In the same pan, add the mustard paste, red chili powder, and sugar, and fry for 2-3 minutes.\n6. Add a cup of water to the pan and bring it to a boil.\n7. Add the fried fish to the pan and cook for 5-10 minutes until the fish is fully cooked and the gravy thickens.\n8. Garnish with green chilies and serve hot with steamed rice.",
+                "rating": 4.9
+              },
+           {
+          "name": "Aloo Posto (Potatoes in Poppy Seed Gravy)",
+          "ingredients": [
+          "3-4 potatoes",
+          "1/2 cup poppy seeds",
+          "1/2 teaspoon turmeric powder",
+          "1/2 teaspoon red chili powder",
+          "2-3 green chilies",
+          "1 tablespoon mustard oil",
+          "Salt to taste"
+          ],
+          "method": "1. Peel and dice the potatoes into small cubes.\n2. Soak the poppy seeds in water for 10-15 minutes.\n3. Drain the water and grind the poppy seeds to make a smooth paste.\n4. Heat the mustard oil in a pan and add the diced potatoes.\n5. Fry the potatoes until they are golden brown.\n6. Add the turmeric powder, red chili powder, and salt, and mix well.\n7. Add the poppy seed paste to the pan and mix well.\n8. Add water to the pan and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes until the potatoes are fully cooked and the gravy thickens.\n10. Garnish with green chilies and serve hot with steamed rice.",
+          "rating": 4.7
+          }
+      ]
+      },
+    {
+        "id": 4,
+        "name": "Zafor Ahmed",
+        "years_of_experience": 25,
+        "num_recipes": 5,
+        "likes": 20,
+        "picture_url": "https://ibb.co/dPyjfG3",
+        "bio": "Zafor Ahmed is a renowned Bengali chef with over 15 years of experience in cooking traditional Bengali cuisine. Her love for food and passion for cooking inspired her to start her own restaurant, where she serves authentic Bengali dishes with a modern twist. Her recipes are known for their unique blend of spices and flavors that tantalize the taste buds of food lovers.",
+        "recipes": [
+          {
+            "name": "Chingri Macher Malai Curry (Prawn Curry in Coconut Milk)",
+            "ingredients": [
+              "500 gm prawns",
+              "1 cup coconut milk",
+              "1 onion, chopped",
+              "1 tsp garlic paste",
+              "1 tsp ginger paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "2-3 green chilies",
+              "1 tbsp sugar",
+              "2-3 tbsp mustard oil",
+              "1 tsp ghee",
+              "Salt to taste"
+            ],
+            "method": "1. Clean and devein the prawns, leaving the tail intact.\n2. Heat the mustard oil in a pan and fry the prawns for 2-3 minutes. Remove them from the pan and keep them aside.\n3. In the same pan, add the chopped onion, ginger paste, and garlic paste, and sauté until the onion turns translucent.\n4. Add the turmeric powder, red chili powder, and salt, and mix well.\n5. Add the coconut milk and sugar to the pan and bring it to a boil.\n6. Add the fried prawns to the pan and cook for 2-3 minutes.\n7. Add the ghee and green chilies to the pan and stir well.\n8. Serve hot with steamed rice.",
+            "rating": 4.8
+          },
+          {
+            "name": "Shorshe Ilish (Hilsa Fish in Mustard Gravy)",
+            "ingredients": [
+              "4 pieces of Hilsa fish",
+              "2-3 tablespoons mustard paste",
+              "1 teaspoon red chili powder",
+              "1/2 teaspoon turmeric powder",
+              "2-3 green chilies",
+              "1 teaspoon salt",
+              "2-3 tablespoons mustard oil",
+              "1/2 teaspoon sugar"
+            ],
+            "method": "1. Clean the Hilsa fish pieces and marinate them with turmeric powder and salt for 15-20 minutes.\n2. In a grinder, grind the mustard seeds with a little water to make a smooth paste.\n3. Heat the mustard oil in a pan and fry the fish pieces until they are golden brown on both sides.\n4. Remove the fish from the pan and keep it aside.\n5. In the same pan, add the mustard paste, red chili powder, and sugar, and fry for 2-3 minutes.\n6. Add a cup of water to the pan and bring it to a boil.\n7. Add the fried fish to the pan and cook for 5-10 minutes until the fish is fully cooked and the gravy thickens.\n8. Garnish with green chilies and serve hot with steamed rice.",
+            "rating": 4.9
+          },
+       {
+      "name": "Aloo Posto (Potatoes in Poppy Seed Gravy)",
+      "ingredients": [
+      "3-4 potatoes",
+      "1/2 cup poppy seeds",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon red chili powder",
+      "2-3 green chilies",
+      "1 tablespoon mustard oil",
+      "Salt to taste"
+      ],
+      "method": "1. Peel and dice the potatoes into small cubes.\n2. Soak the poppy seeds in water for 10-15 minutes.\n3. Drain the water and grind the poppy seeds to make a smooth paste.\n4. Heat the mustard oil in a pan and add the diced potatoes.\n5. Fry the potatoes until they are golden brown.\n6. Add the turmeric powder, red chili powder, and salt, and mix well.\n7. Add the poppy seed paste to the pan and mix well.\n8. Add water to the pan and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes until the potatoes are fully cooked and the gravy thickens.\n10. Garnish with green chilies and serve hot with steamed rice.",
+      "rating": 4.7
+      }
+      ]
+      },
+    {
+        "id": 5,
+        "name": "Kawser",
+        "years_of_experience": 25,
+        "num_recipes": 5,
+        "likes": 20,
+        "picture_url": "https://ibb.co/tQVf0fm",
+        "bio": "Kawser is a renowned Bengali chef with over 15 years of experience in cooking traditional Bengali cuisine. Her love for food and passion for cooking inspired her to start her own restaurant, where she serves authentic Bengali dishes with a modern twist. Her recipes are known for their unique blend of spices and flavors that tantalize the taste buds of food lovers.",
+        "recipes": [
+          {
+            "name": "Chingri Macher Malai Curry (Prawn Curry in Coconut Milk)",
+            "ingredients": [
+              "500 gm prawns",
+              "1 cup coconut milk",
+              "1 onion, chopped",
+              "1 tsp garlic paste",
+              "1 tsp ginger paste",
+              "1 tsp turmeric powder",
+              "1 tsp red chili powder",
+              "2-3 green chilies",
+              "1 tbsp sugar",
+              "2-3 tbsp mustard oil",
+              "1 tsp ghee",
+              "Salt to taste"
+            ],
+            "method": "1. Clean and devein the prawns, leaving the tail intact.\n2. Heat the mustard oil in a pan and fry the prawns for 2-3 minutes. Remove them from the pan and keep them aside.\n3. In the same pan, add the chopped onion, ginger paste, and garlic paste, and sauté until the onion turns translucent.\n4. Add the turmeric powder, red chili powder, and salt, and mix well.\n5. Add the coconut milk and sugar to the pan and bring it to a boil.\n6. Add the fried prawns to the pan and cook for 2-3 minutes.\n7. Add the ghee and green chilies to the pan and stir well.\n8. Serve hot with steamed rice.",
+            "rating": 4.8
+          },
+          {
+            "name": "Shorshe Ilish (Hilsa Fish in Mustard Gravy)",
+            "ingredients": [
+              "4 pieces of Hilsa fish",
+              "2-3 tablespoons mustard paste",
+              "1 teaspoon red chili powder",
+              "1/2 teaspoon turmeric powder",
+              "2-3 green chilies",
+              "1 teaspoon salt",
+              "2-3 tablespoons mustard oil",
+              "1/2 teaspoon sugar"
+            ],
+            "method": "1. Clean the Hilsa fish pieces and marinate them with turmeric powder and salt for 15-20 minutes.\n2. In a grinder, grind the mustard seeds with a little water to make a smooth paste.\n3. Heat the mustard oil in a pan and fry the fish pieces until they are golden brown on both sides.\n4. Remove the fish from the pan and keep it aside.\n5. In the same pan, add the mustard paste, red chili powder, and sugar, and fry for 2-3 minutes.\n6. Add a cup of water to the pan and bring it to a boil.\n7. Add the fried fish to the pan and cook for 5-10 minutes until the fish is fully cooked and the gravy thickens.\n8. Garnish with green chilies and serve hot with steamed rice.",
+            "rating": 4.9
+          },
+       {
+      "name": "Aloo Posto (Potatoes in Poppy Seed Gravy)",
+      "ingredients": [
+      "3-4 potatoes",
+      "1/2 cup poppy seeds",
+      "1/2 teaspoon turmeric powder",
+      "1/2 teaspoon red chili powder",
+      "2-3 green chilies",
+      "1 tablespoon mustard oil",
+      "Salt to taste"
+      ],
+      "method": "1. Peel and dice the potatoes into small cubes.\n2. Soak the poppy seeds in water for 10-15 minutes.\n3. Drain the water and grind the poppy seeds to make a smooth paste.\n4. Heat the mustard oil in a pan and add the diced potatoes.\n5. Fry the potatoes until they are golden brown.\n6. Add the turmeric powder, red chili powder, and salt, and mix well.\n7. Add the poppy seed paste to the pan and mix well.\n8. Add water to the pan and bring it to a boil.\n9. Cover the pan and cook for 10-15 minutes until the potatoes are fully cooked and the gravy thickens.\n10. Garnish with green chilies and serve hot with steamed rice.",
+      "rating": 4.7
+      }
+      ]
+      }
+      
+]
